@@ -1,6 +1,8 @@
 @import url("https://fonts.googleapis.com/css?family=Montserrat:300|Spartan&display=swap");
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Noto+Serif+KR:wght@200;300;400;500;600;700;900&display=swap');
 * {
-  font-family: 'Montserrat', serif;
+  font-family: 'Noto Sans', sans-serif;
+font-family: 'Noto Serif KR', serif;
   box-sizing: border-box;
 }
 
